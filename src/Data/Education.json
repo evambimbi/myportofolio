@@ -1,0 +1,24 @@
+[
+    {
+        "id":1,
+        "coursename":"Developer Full Stack",
+        "courseyear":"2023",
+        "institute":"Kinshasa Digital Academy",
+        "grade":"Bac+2"
+    },
+    {
+        "id":2,
+        "coursename":"Licencié en Informatique/gestion",
+        "courseyear":"2019",
+        "institute":"University of Kinshasa",
+        "grade":"70% Percentage"
+    },
+    {
+        "id":3,
+        "coursename":"Gradué en Math-Info",
+        "courseyear":"2016",
+        "institute":"University of Kinshasa",
+        "grade":"63% Percentage"
+    }
+   
+]
